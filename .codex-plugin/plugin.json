@@ -24,7 +24,7 @@
   "interface": {
     "displayName": "menschlich",
     "shortDescription": "Nimmt AI-Slop aus deutschen Texten raus, bevor sie live gehen.",
-    "longDescription": "menschlich ist die deutsche Variante der no_ai_slop-Idee: ein Agent-Skill, der Artikel und längere Fließtexte auf typische KI-Muster prüft und sie rausnimmt — Em-Dashes, „nicht X, sondern Y\"-Konstruktionen, Dreier-Listen als Reflex, hohle Überschriften, Floskel-Opener, Füllwörter und erfundene Zahlen. Ein mitgeliefertes Python-Skript prüft die mechanisch erkennbaren Verstöße (Exit 1 blockiert das Veröffentlichen), den Rest (Ton, Rhythmus, fabrizierte Zitate) macht der Agent per Hand.",
+    "longDescription": "menschlich ist die deutsche Variante der no_ai_slop-Idee: ein Agent-Skill, der Artikel und längere Fließtexte auf typische KI-Muster prüft und sie rausnimmt: Em-Dashes, „nicht X, sondern Y\"-Konstruktionen, Dreier-Listen als Reflex, hohle Überschriften, Floskel-Opener, Füllwörter und erfundene Zahlen. Ein mitgeliefertes Python-Skript prüft die mechanisch erkennbaren Verstöße (Exit 1 blockiert das Veröffentlichen), den Rest (Ton, Rhythmus, fabrizierte Zitate) macht der Agent per Hand.",
     "developerName": "Georg Kinzel",
     "category": "Productivity",
     "capabilities": [
