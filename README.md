@@ -57,6 +57,10 @@ Die volle Liste steht in [`skills/menschlich/SKILL.md`](skills/menschlich/SKILL.
 
 Die Analyse, welche Muster KI-Text verraten, kommt aus [realrossmanngroup/no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) (englische Korpus-Auswertung über 500.000 Wörter). Dieses Repo übernimmt keine ihrer Inhalte, sondern setzt den Ansatz eigenständig für Deutsch um. Für englische Texte lohnt sich das Original.
 
+## Autor
+
+Gebaut von Georg Kinzel. Mehr zu KI-Workflows und Claude Code auf [georgkinzel.de](https://georgkinzel.de).
+
 ## Lizenz
 
 [MIT](LICENSE) © Georg Kinzel
