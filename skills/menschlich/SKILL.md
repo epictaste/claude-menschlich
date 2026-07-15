@@ -1,6 +1,6 @@
 ---
 name: menschlich
-description: IMMER anwenden, bevor ein deutscher Artikel, Blogpost oder längerer Fließtext geschrieben, finalisiert oder veröffentlicht wird, der nach einem Menschen klingen soll. Entfernt AI-Slop-Marker (Em-Dashes, „nicht X, sondern Y", Dreier-Listen, hohle Überschriften, Floskeln, Füllwörter, erfundene Zahlen). Trigger: „Artikel schreiben/publishen", „klingt nach KI/Slop", „menschlich machen", „entschlacken", „humanizer drüber".
+description: IMMER anwenden, bevor ein deutscher Artikel, Blogpost oder längerer Fließtext geschrieben, finalisiert oder veröffentlicht wird, der nach einem Menschen klingen soll. Entfernt AI-Slop-Marker (Em-Dashes, „nicht X, sondern Y", Dreier-Listen, hohle Überschriften, Floskeln, Füllwörter, erfundene Zahlen). Trigger sind „Artikel schreiben/publishen", „klingt nach KI/Slop", „menschlich machen", „entschlacken", „humanizer drüber".
 ---
 
 # menschlich — AI-Slop aus deutschen Texten rausnehmen
