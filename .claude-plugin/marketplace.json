@@ -1,0 +1,21 @@
+{
+  "name": "epictaste",
+  "metadata": {
+    "description": "menschlich — nimmt AI-Slop aus deutschen Texten raus, bevor sie live gehen."
+  },
+  "owner": {
+    "name": "Georg Kinzel"
+  },
+  "plugins": [
+    {
+      "name": "menschlich",
+      "description": "Entschlackt deutsche Artikel und Fließtexte von KI-Mustern (Em-Dashes, Kontrast-Parallelismus, Dreier-Listen, Floskeln) inkl. mechanischem Slop-Check.",
+      "author": {
+        "name": "Georg Kinzel"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/epictaste/claude-menschlich"
+    }
+  ]
+}

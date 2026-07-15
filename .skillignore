@@ -1,0 +1,25 @@
+# Agent-Skills-Scanner: Nicht-Runtime aus dem Bundle raushalten.
+# Der Kern ist der Skill unter skills/menschlich/.
+
+.git/
+.venv/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+
+.github/
+.claude-plugin/
+.codex-plugin/
+assets/
+
+tests/
+README.md
+CHANGELOG.md
+SECURITY.md
+AGENTS.md
+CLAUDE.md

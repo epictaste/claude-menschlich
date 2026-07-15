@@ -1,0 +1,12 @@
+{
+  "name": "menschlich",
+  "version": "1.0.0",
+  "description": "Nimmt AI-Slop aus deutschen Texten raus: Em-Dashes, „nicht X, sondern Y\"-Konstruktionen, Dreier-Listen, hohle Überschriften, Floskeln, Füllwörter und erfundene Zahlen. Mit mechanischem Slop-Check-Skript. Die deutsche Variante der no_ai_slop-Idee.",
+  "author": {
+    "name": "Georg Kinzel"
+  },
+  "homepage": "https://github.com/epictaste/claude-menschlich",
+  "repository": "https://github.com/epictaste/claude-menschlich",
+  "license": "MIT",
+  "keywords": ["claude", "claude-code", "agent-skills", "anthropic", "deutsch", "german", "humanizer", "ai-slop", "writing", "schreiben"]
+}
