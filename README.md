@@ -26,8 +26,6 @@ Das Skript ersetzt das Lesen nicht. Ton, Rhythmus und fabrizierte Zitate bleiben
 
 `-g` installiert global; weglassen installiert nur ins aktuelle Projekt. Die `/plugin`-Befehle tippst du direkt in Claude Code.
 
-Der Skill ist auch Teil des Sammel-Hubs [`epictaste/claude-macher-skills`](https://github.com/epictaste/claude-macher-skills), wenn du mehrere meiner Skills auf einmal willst.
-
 ## So nutzt du es
 
 In Claude Code oder Codex sagst du einfach:
